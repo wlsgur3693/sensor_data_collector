@@ -1,0 +1,5 @@
+*.o
+*.a
+Logger
+keygen
+.vscode/
